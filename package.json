@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "Samuel Egwurube <sami.egwu90@gmail.com>",
-  "proxy": "http://localhost:8081"
+  "proxy": "http://localhost:8081",
   "private": true,
   "scripts": {
     "start": "node build/dev-server.js",
